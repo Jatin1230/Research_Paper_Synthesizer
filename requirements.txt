@@ -6,3 +6,4 @@ faiss-cpu
 plotly
 pypdf
 python-dotenv
+beautifulsoup4
