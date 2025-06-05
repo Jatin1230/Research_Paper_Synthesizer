@@ -7,3 +7,4 @@ plotly
 pypdf
 python-dotenv
 beautifulsoup4
+lxml
