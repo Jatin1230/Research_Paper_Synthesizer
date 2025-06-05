@@ -13,7 +13,7 @@ An AI-powered Streamlit app that allows users to **summarize, compare, and visua
 
 ## 🚀 Live Demo
 
-👉 [Hosted on Railway]((https://web-production-740bf.up.railway.app/))
+👉 [Hosted on Railway](https://web-production-740bf.up.railway.app/)
 
 ## 📦 Installation
 
